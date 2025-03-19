@@ -1,7 +1,7 @@
 Hello, I'm Subid aka Intruder 👋
 "Tech Enthusiast & DIY Maker"
 
-I’m currently pursuing my B.Tech in Computer Science Engineering at GCE, Keonjhar, with a diploma in IT. Passionate about DIY tech projects and eager to explore the realms of Cloud Engineering, DevOps, and Data Analytics.
+I’m currently pursuing my B.Tech in Computer Science Engineering at GCE, Keonjhar, with a diploma in IT. Passionate about DIY tech projects and eager to explore the realms of Cloud Engineering and DevOps.
 
 🚀 Skills & Interests:
   -> Programming Languages: Python, HTML, CSS, JavaScript, C, Java (beginner level).
